@@ -1,0 +1,2 @@
+A simple composer package containing the classes on the [jetpay documentation page](https://magic.collectorsolutions.com/magic-api/Help/PaymentTransactionRedirectQuickStart?Length=4)
+for JetPay's Transaction Redirect process.

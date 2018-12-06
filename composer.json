@@ -1,0 +1,16 @@
+{
+    "name": "commanderZiltoid/jetpay-transaction-redirect",
+    "description": "This package simply contains the classes shown on the jetpay documentation site for it's Transaction Redirect process",
+    "type": "project",
+    "require": {
+		"php": ">=7.2"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CommanderZiltoid\\JetPayTransactionRedirect\\": "src/"
+        }
+    }
+}
